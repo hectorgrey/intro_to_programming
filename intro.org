@@ -3,9 +3,12 @@
 #+EMAIL: hectorgrey223@protonmail.com
 #+LANGUAGE: en
 
+* License
+
 * Introduction
 
-
+Hello and welcome to this introductory guide to programming using the Rust programming language.
+This guide is completely free, and always will be - it is available on my github.
 
 ** Who is This Book For?
 ** Why Rust?
@@ -16,3 +19,6 @@
 
 * Unsafe
 
+* Appendices
+** License
+Insert CC Attrib Noncommercial detalis here

@@ -3,8 +3,6 @@
 #+EMAIL: hectorgrey223@protonmail.com
 #+LANGUAGE: en
 
-* License
-
 * Introduction
 
 Hello and welcome to this introductory guide to programming using the Rust programming language.
@@ -16,13 +14,35 @@ If you find this text available for purchase anywhere, please let me know.
 
 This book is aimed primarily at the complete beginner, with absolutely no experience of programming
 of any kind.  While more experienced programmers who wish to learn Rust may gain some use out of
-this book, they may be better off using [[https://][Rustlings] alongside the Rust Book.
+this book, they may be better off using [[https://github.com/rust-lang/rustlings][Rustlings]] alongside the [[https://doc.rust-lang.org/stable/book/][Rust Book]].
 
 ** Why Rust?
 
+Rust is one of the most well liked programming languages available today, and it is designed to
+allow the same low level control provided by languages like C and C++, but in a way that makes it
+easier to write correct code, and that provides the kinds of modern features that many developers
+have grown used to.  Many of the concepts taught in this book are usually taught using C or C++
+because these languages have been around for far longer and until recently were the best option for
+doing so - meaning that people who were already intimidated by these languages seldom learn the
+concepts.
+
 * The Basics
 
+** Hello World
+
+** Hello Cargo
+
+** Functions
+
+** Variables
+
+** Loops
+
 * Data Structures And Algoritms
+
+* The Standard Library
+
+* Testing
 
 * Unsafe
 

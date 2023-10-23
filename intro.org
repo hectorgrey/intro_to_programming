@@ -230,7 +230,7 @@ this Public License where the Licensed Rights include other Copyright and Simila
       *incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages*
       *arising out of this Public License or use of the Licensed Material, even if the Licensor has*
       *been advised of the possibility of such losses, costs, expenses, or damages. Where a*
-      *limitation of liability is not allowed in full or in part, this limitation may not apply to
+      *limitation of liability is not allowed in full or in part, this limitation may not apply to*
       *You.*
     * The disclaimer of warranties and limitation of liability provided above shall be interpreted
       in a manner that, to the extent possible, most closely approximates an absolute disclaimer and
